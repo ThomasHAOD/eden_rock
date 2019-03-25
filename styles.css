@@ -1,0 +1,66 @@
+body {
+  background: rgb(84, 82, 83);
+}
+p {
+  color: rgb(201,199,200);
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: rgb(201,199,200);
+  font-family: 'Arial', sans-serif;
+}
+
+.title {
+  height: 400px;
+  width: auto;
+  text-align: center;
+
+}
+
+#headerimg {
+  height: 400px;
+  width: auto;
+}
+
+#logo {
+  height: 400px;
+  width: auto;
+}
+
+.blurb {
+  width: 500px;
+  border: 3px solid rgb(201,199,200);
+  border-radius: 8px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.gallery {
+  width: 500px;
+  border: 3px solid rgb(201,199,200);
+  border-radius: 8px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.reviews {
+  width: 500px;
+  border: 3px solid rgb(201,199,200);
+  border-radius: 8px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.contact_form {
+  width: 500px;
+  border: 3px solid rgb(201,199,200);
+  border-radius: 4px;
+  padding: 5px;
+  margin: 10px;
+}
+
+li {
+  color: rgb(201,199,200);
+  font-family: 'Arial', sans-serif;
+}
