@@ -11,11 +11,18 @@ h1 {
   font-family: 'Arial', sans-serif;
 }
 
+#logo {
+  opacity: 0.8;
+}
+
 .title {
   height: 400px;
   width: auto;
   text-align: center;
-
+  background-image: url(file:///Users/user/ccprojects/eden_rock_website/images/garden1.jpg);
+  background-color: rgb(201,199,200);
+  background-position: 50% 40%;
+  background-blend-mode: multiply;
 }
 
 #headerimg {
@@ -28,34 +35,10 @@ h1 {
   width: auto;
 }
 
-.blurb {
+.blurb, .gallery, .reviews, .contact_form {
   width: 500px;
   border: 3px solid rgb(201,199,200);
   border-radius: 8px;
-  padding: 5px;
-  margin: 10px;
-}
-
-.gallery {
-  width: 500px;
-  border: 3px solid rgb(201,199,200);
-  border-radius: 8px;
-  padding: 5px;
-  margin: 10px;
-}
-
-.reviews {
-  width: 500px;
-  border: 3px solid rgb(201,199,200);
-  border-radius: 8px;
-  padding: 5px;
-  margin: 10px;
-}
-
-.contact_form {
-  width: 500px;
-  border: 3px solid rgb(201,199,200);
-  border-radius: 4px;
   padding: 5px;
   margin: 10px;
 }
